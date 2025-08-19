@@ -50,4 +50,4 @@ Each contract file should have their own licence specified. In the absence of an
 
 ## Legal
 
-Your use of this Project is governed by the terms found at www.openzeppelin.com/tos (the "Terms").
+Your use of this Project is governed by the terms found at www.openzeppelin.com/tos (the "Terms"). 
